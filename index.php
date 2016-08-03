@@ -6,7 +6,8 @@
 <body>
 
 	<h1>Beon</h1>
-	<p>sdkgvfbdjshfcbgskdchbsdukfjb</p>
+	<h2>ini h2</h2>
+	<h3>ini h3</h3>
 
 </body>
 </html>
