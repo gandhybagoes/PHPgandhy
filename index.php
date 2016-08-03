@@ -4,8 +4,12 @@
 	<title>Belajar Git</title>
 </head>
 <body>
-	<h1>Hello Git</h1>
-	<p>ini paragraf</p>
-	<p>ini paragraf2</p>
+
+	<?php
+	
+	echo "hello world";	
+
+	?>
+
 </body>
 </html>
